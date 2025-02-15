@@ -12,8 +12,8 @@ A simple GUI-based Weather App built using **Python** and **Tkinter**, with real
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone https://github.com/Sang-19/Weather-App.git
+   cd Weather-App
    ```
 2. Install required dependencies:
    ```sh
