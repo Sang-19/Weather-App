@@ -38,18 +38,18 @@ pip install tkinter geopy timezonefinder pytz requests pillow
 ## API Key Setup
 This app uses the OpenWeather API. Get an API key from [OpenWeather](https://openweathermap.org/api) and update the `API_KEY` in `main.py`:
 ```python
-API_KEY = "your_api_key_here"
+api = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=YOUR_API_KEY"
 ```
 
 ## Screenshots
-![Weather App Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/f544f523-c371-42c9-b413-7ff09636e67f)
+
+![Screenshot 2025-02-15 110606](https://github.com/user-attachments/assets/ed3d4ab2-3413-4fbe-9854-61496430b6eb)
+
+
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with improvements!
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any issues or suggestions, contact **your-email@example.com**.
 
