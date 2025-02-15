@@ -88,7 +88,6 @@ box_myimage.pack(padx = 5, pady = 5, side = BOTTOM
                  )
 
 
-#time and text
 name = Label(root, font=("arial", 15, "bold"))
 name.place(x=100,y=100)
 clock=Label(root, font=("Helvetica", 20))
